@@ -1,0 +1,14 @@
+{
+	"1": {
+	    "name" : "Banana",
+	    "weight" : "23",
+	    "cost" : "200",
+	    "img" : "https://cdn0.iconfinder.com/data/icons/fruits/128/Banana.png"
+	},
+		"2": {
+	    "name" : "Tomato",
+	    "weight" : "5",
+	    "cost" : "23",
+	    "img" : "https://cdn0.iconfinder.com/data/icons/fruits/128/Tomato.png"
+	}
+}
